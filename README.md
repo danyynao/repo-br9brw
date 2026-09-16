@@ -1,8 +1,10 @@
 September 16, 2026
 
-<!-- notify 1/2 · wlLviYKi -->
-## Notification 1/2
-Round: Round 1
-To: pierre@lrch.com, dean@bridgespot.com
-At: 2026-09-16 14:07:02
-Id: wlLviYKi
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: rynetta2697@hotmail.com, kendallford@aol.com
+At: 2026-09-16 14:07:10
+Id: 14laYEKL
